@@ -1,0 +1,29 @@
+﻿1
+1
+
+00:00:00,000  -->  00:00:03,160
+[music]
+2
+
+2
+
+00:00:03,160  -->  00:00:06,620
+Thank you for joining me in Arduino step by step 2017,
+3
+
+3
+
+00:00:06,620  -->  00:00:10,900
+getting started, in this lecture I will describe
+4
+
+4
+
+00:00:10,900  -->  00:00:15,640
+the course so that you know exactly what to expect from it.
+5
+
+5
+
+00:00:15,640  -->  00:00:20,060
+Firstly, you may be wondering if this course is right for you
